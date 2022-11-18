@@ -1,0 +1,64 @@
+.heading
+{
+    width: 100%;
+    text-align: left;
+    font-family: cursive;
+    color: black;
+    background-color: rgb(177, 114, 245);
+}
+
+.heading h3
+{
+    display: inline;
+}
+
+.heading button
+{
+float: right;
+border: 1px solid white;
+}
+
+.big_image
+{
+    width: 100%;
+}
+
+#popup
+{
+    background-color: lightblue;
+    font-family: cursive;
+    color: black;
+}
+
+#popup, #start , #status
+{
+    font-size: 22px;
+}
+
+h4
+{
+background-color: white;
+line-height: 2;
+margin: 0px;
+}
+
+.instruction_image
+{
+    display: inline-block;
+    width: 75%;
+}
+
+
+video
+{
+  background: url('game_console.png');
+  background-size: cover;
+  background-position: center;
+  padding: 25px;
+}
+
+#start, #status
+{
+    font-family: cursive;
+    background-color: lightsalmon;
+}
